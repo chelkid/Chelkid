@@ -3,8 +3,7 @@ Some things about me about me:\
 -Im currently studying cybersecurity at AGH university in poland🎓\
 -The languages I'm most experienced in is Python and C 
 -I participate in ctf challenges as part of lab_4 team (mostly web but also rev)\
--I love coffe and cats\
--I love playing games\
+-I love reading\
 Here are some intresting projects i developed:
 * [Keyloger](https://github.com/chelkid/Keylogger)
 * [Task Manager app](https://github.com/chelkid/Task-Manager-app)
