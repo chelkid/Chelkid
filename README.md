@@ -8,7 +8,7 @@ Here are some intresting projects i developed:
 * [Keyloger](https://github.com/chelkid/Keylogger)
 * [Task Manager app](https://github.com/chelkid/Task-Manager-app)
 * [Pacman game](https://github.com/chelkid/pacman-game)
-
+* I learn [GitLab](https://gitlab.com/wmorgulet/to-do-list) rn
 
 <!--
 **chelkid/Chelkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
