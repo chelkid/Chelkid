@@ -8,6 +8,7 @@ Here are some intresting projects i developed:
 * [Keyloger](https://github.com/chelkid/Keylogger)
 * [Task Manager app](https://github.com/chelkid/Task-Manager-app)
 * [Pacman game](https://github.com/chelkid/pacman-game)
+* [Builded a modern SDLC](https://github.com/chelkid/bootcamp-blog-chelkid), as part of Pega DevOps bootcamp
 * I learn [GitLab](https://gitlab.com/wmorgulet/to-do-list) rn
 
 <!--
