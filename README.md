@@ -10,7 +10,7 @@ Here are some intresting projects i developed:
 * [Task Manager app](https://github.com/chelkid/Task-Manager-app)
 * [Pacman game](https://github.com/chelkid/pacman-game)
 * [Created a modern SDLC](https://github.com/chelkid/bootcamp-blog-chelkid), as part of Pega DevOps bootcamp
-* I learn [GitLab](https://gitlab.com/wmorgulet/to-do-list) rn
+* CI/CD pipeline on [GitLab](https://gitlab.com/wmorgulet/to-do-list)
 
 <!--
 **chelkid/Chelkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
